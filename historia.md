@@ -1,5 +1,4 @@
 **História do usuário**
-`Segue abaixo:`
 
         # Vini, deseja encontrar um novo animal,
         # para adotar.
